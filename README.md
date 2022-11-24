@@ -20,11 +20,12 @@ Don't contribute to this repo directly, but rather fork this repo to your github
 
 ### `Technologies you should use`
 
-- Material UI (already added to the project)
-- React Query
-- axios
-- Typescript (already added to the project)
-- JSON server (already added to the project)
+- [Material UI](https://mui.com/material-ui/react-autocomplete/) (already added to the project)
+- [React Query](https://tanstack.com/query/v4/docs/overview)
+- [axios](https://github.com/axios/axios)
+- [Typescript](https://www.typescriptlang.org/docs/handbook/intro.html) (already added to the project)
+- [React router 6](https://reactrouter.com/en/main/start/tutorial)
+- [JSON server](https://github.com/typicode/json-server) (already added to the project)
 
 ### `Running mock server locally`
 
